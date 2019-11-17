@@ -12,3 +12,6 @@ After signing up, user gets free access to text generator. Free version is limit
 
 ### Technologies used
 This system uses Python + Flask to show UI, collect payments and store user and payment information. 
+
+### See it in action
+System can be tested here: https://machinelearning-final.herokuapp.com/
